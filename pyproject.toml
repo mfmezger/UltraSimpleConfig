@@ -18,6 +18,7 @@ pytest = "^7.4.4"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
+
 [tool.mypy]
 # Disallow dynamic typing
 disallow_any_unimported=true
